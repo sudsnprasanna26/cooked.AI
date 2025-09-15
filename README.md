@@ -1,9 +1,9 @@
 # RAG-Enhanced Real-Time Dating Coach
 
-**AI@GT Applied Research Team Submission by John Doe**
+**Originally submitted for AI @ GT project-based assessment - Sudarshan Prasanna**
 
 ## Project Title
-RAG-Enhanced Real-Time Dating Coach - Generative Conversation Assistant
+cooked.AI (RAG-Enhanced Real-Time Dating Coach) - Generative Conversation Assistant
 
 ## What It Does
 
@@ -148,7 +148,7 @@ rag system: ✅ Active
 
 ## File Structure
 ```
-submissions/John_Doe/
+submissions/sudsnprasanna26/
 ├── rag_dating_coach.py      # RAG-Enhanced main application (RECOMMENDED)
 ├── dating_coach.py          # Original implementation for comparison
 ├── run_coach.py             # Simple launcher script
@@ -171,3 +171,4 @@ This tool is designed to promote respectful, authentic communication. It should 
 
 **Developed for AI@GT Applied Research Team Assessment**  
 *Focus: Hugging Face transformers, ethical AI, user interface design*
+
