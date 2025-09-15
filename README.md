@@ -1,4 +1,4 @@
-# RAG-Enhanced Real-Time Dating Coach
+# cooked.AI - your very own RAG-Enhanced Real-Time Dating Coach
 
 **Originally submitted for AI @ GT project-based assessment - Sudarshan Prasanna**
 
@@ -171,4 +171,5 @@ This tool is designed to promote respectful, authentic communication. It should 
 
 **Developed for AI@GT Applied Research Team Assessment**  
 *Focus: Hugging Face transformers, ethical AI, user interface design*
+
 
